@@ -9,7 +9,7 @@ public class Main {
         
         sc.close();
         
-        for(int i=0; i<x; i++) {
+        for (int i=0; i<x; i++) {
             result += Integer.parseInt(y.substring(i, i+1));
         }
         
