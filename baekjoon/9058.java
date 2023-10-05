@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class B8958 {
+public class Back8958 {
 
 	public static void main(String[] args) {
 
